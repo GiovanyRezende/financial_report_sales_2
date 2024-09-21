@@ -1,5 +1,5 @@
 # Power BI Report in Financial Sales
-*This is a challenge of Data Engineering NTT DATA Bootcamp in [DIO](https://web.dio.me/).* It consists in creating a better report for Data Analysis in Power BI, using [the previous project](https://github.com/GiovanyRezende/financial_sales_report/).
+*This is a challenge of Data Engineering NTT DATA Bootcamp in [DIO](https://web.dio.me/).* It consists in creating a better report for Data Analysis in Power BI, using [the previous project](https://github.com/GiovanyRezende/financial_report_sales/).
 
 ## Theme Change
 The theme was changed to dark backgrounds and a blue-palette.
